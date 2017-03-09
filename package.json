@@ -1,0 +1,27 @@
+{
+  "name": "ftpsync",
+  "version": "1.0.0",
+  "description": "test sync ftp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mplociennik/ftpsync.git"
+  },
+  "keywords": [
+    "ftpsync"
+  ],
+  "author": "cieniu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mplociennik/ftpsync/issues"
+  },
+  "homepage": "https://github.com/mplociennik/ftpsync#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "vinyl-ftp": "^0.6.0"
+  }
+}
